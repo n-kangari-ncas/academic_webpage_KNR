@@ -17,7 +17,9 @@ publishDate: "2024-01-16T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Dataset;
-publication_types: ["9"]
+publication_types: ["0"]
+tags:
+  - Dataset
 
 # Publication name and optional abbreviated publication name.
 publication: "*PANGAEA*"
