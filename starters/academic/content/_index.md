@@ -71,8 +71,8 @@ sections:
           date_end: '2026-03-13T17:00:00Z'
           date: '2026-03-11T12:00:00Z'
           description: 'Attended the workshop'
-          organisation: 'DiRAC High Performance Computing Facility'
-          organisation_url: ''
+          organization: 'DiRAC High Performance Computing Facility'
+          organization_url: ''
           title: Cross-Community AMD GPU Hackathon
     
         - certificate_url: ''
