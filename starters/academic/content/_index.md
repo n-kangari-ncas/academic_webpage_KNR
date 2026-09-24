@@ -69,7 +69,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: '2026-03-13T17:00:00Z'
-          date: '2026-03-11T12:00:00Z'
+          date_start: '2026-03-11T12:00:00Z'
           description: 'Attended the workshop'
           organization: 'DiRAC High Performance Computing Facility'
           organization_url: ''
